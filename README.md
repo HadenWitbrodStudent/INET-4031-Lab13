@@ -3,7 +3,9 @@
 
 # Project Overview
 
-This application is a simple three-tier web app consisting of a frontend (Apache), backend API (Flask), and a database (MariaDB). The user interacts with the web interface, which communicates with the Flask service, which in turn reads/writes data from the database.
+This application is a web app consisting of a frontend: Apache, backend API: Flask, and a database: MariaDB.
+
+The user interacts with the web interface, which communicates with the Flask service, which in turn reads/writes data from the database.
 
 ---
 
